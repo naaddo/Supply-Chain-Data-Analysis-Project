@@ -2,37 +2,4 @@ remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [Nada. K. M. Ahmed]
-description: [I’m Nada Kamal Mohamed Ahmed, a passionate junior data analyst and chemistry specialist with a unique blend of scientific research and analytical thinking. 
-I thrive on transforming raw data into powerful insights that help organizations make smarter, data-driven decisions.
-
-Through hands-on experience in Power BI, Excel, MySQL, and various data tools, I’ve developed dashboards, performed statistical modeling, and guided clients in improving their business performance. My journey spans freelance data analysis, national tech initiatives like the Digital Egypt Pioneers Initiative, and impactful research projects in materials science.
-
-🧩 What sets me apart? I bridge the gap between technical data work and real-world impact. Whether it’s mentoring beginners in social initiatives, analyzing supply chain metrics, or visualizing trends for business growth, I focus on clarity, accuracy, and actionable outcomes.
-
-🧠 I love to keep learning from certifications in Power BI and data science to leadership programs with Harvard connected platforms like the Aspire Leaders Program.
-
-💡 What truly drives me is giving back. I’ve proudly volunteered as a data analysis instructor. Through interactive workshops and one-on-one mentoring, I’ve helped learners build dashboards, improve their portfolios, and gain confidence in their analytical skills.
-
-📌 Voluntary Highlights:
-
-Instructor @ Social Initiatives: Taught data analysis to individuals from non-technical backgrounds, helping them understand real-world applications in fields like supply chain and business reporting.
-
-Organizer @ Special Courses: Managed educational courses for 200+ students, tracked their progress, and improved completion rates using data tools.
-
-Team Leader @ S4A Minia University: Led academic volunteer teams, promoted self-improvement, and spoke in awareness sessions.
-
-Participant in Hackathons & Research Forums: Presented innovative projects and co-founded a startup focused on climate solutions.
-
-🔍 Let’s connect if you’re looking for someone who can:
-
-Build meaningful dashboards and reports
-
-Simplify complex data for non-technical teams
-
-Train and support aspiring data analysts
-
-Add value through precision, communication, and creativity
-
-🔍 I'm always looking to grow, collaborate, and make a positive impact through data. Whether it’s freelance analysis, community training, or team-based challenges, I bring creativity, clarity, and commitment to every project.
-
-📍 Based in Minia, Egypt | Available for freelance, remote, and collaborative projects] 
+description: [It is time to convert numbers into powerful insights] 
