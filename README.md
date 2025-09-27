@@ -1,12 +1,7 @@
 # 📊 Nada Kamal Mohamed Ahmed
 
-**Junior Data Analyst | Chemistry Specialist | Materials Science Researcher**  
-🌍 Minia, Egypt  
-📧 [nadakanal1@gmail.com](mailto:nadakanal1@gmail.com)  
-📱 +20 1121636781  
-🔗 [LinkedIn](https://www.linkedin.com/in/nada-k-m-ahmed)  
+**Data analysis mentor @ Route | Mentor of the Month | Freelancer | BI Engineer graduate @DEPI | Power BI, Excel & PostgreSQL | CV Writer | Supply Chain data analysis*  
 
----
 
 ## 👩‍💻 About Me
 I am a motivated **Junior Data Analyst** with a background in **Chemistry** and **Materials Science Research**.  
